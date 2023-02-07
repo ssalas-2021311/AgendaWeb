@@ -1,0 +1,86 @@
+.controls {
+    width: 100%;
+    background: #34495E;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+  }
+
+  #botonAñadir{
+    text-align: center;
+    display: flex;
+    margin-left: 74px;
+    width: 185px;
+    font-family: sans-serif;
+    font-weight: 700;
+    background-color: #34495E;
+    border-radius: 5px;
+    color: #FFF;
+    border: none;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    background-color: #34495E; 
+  }
+
+  .form-register {
+    width: 400px;
+    background: #A6ACAF;
+    padding: 35px;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: black;
+  }
+
+  .form-register h4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .agregar{
+    float: right;
+    position: relative;
+    margin-top: 7px;
+  }
